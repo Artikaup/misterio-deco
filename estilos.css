@@ -1,0 +1,63 @@
+header{
+    height: 350px;
+    max-width: 100%;
+    background: url("images/banner-home.jpg") right top;
+    
+}
+header img{
+    width: 5%;
+}
+h1{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 38px;
+    text-align: center;
+    
+}
+h2{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+nav{
+    background-color: #988583;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+nav a{
+    color: beige;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+nav a:hover{
+    color: burlywood;
+    font-size: 24px;
+}
+
+#carrusel{
+    background-color: #473D3C;
+    font-style: italic;
+    text-align: center;
+    
+}
+#carrusel img{
+    width: 150px;
+    height: 200px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+}
+
+.recomedados {
+    background-color: #aca2a2;
+}
+.recomendados img{
+    height: 150px;
+    height: 200px;
+
+}
