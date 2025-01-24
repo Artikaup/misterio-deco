@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Moon+Dance&display=swap');
+
 header{
     height: 350px;
     max-width: 100%;
@@ -35,18 +37,22 @@ nav a{
 }
 nav a:hover{
     color: burlywood;
-    font-size: 24px;
+    font-size: 21px;
 }
 
 #carrusel{
     background-color: #473D3C;
     font-style: italic;
     text-align: center;
-    
+       
+}
+#carrusel p em{
+    font-size: 32px;
 }
 #carrusel img{
     width: 150px;
     height: 200px;
+    border-radius: 30px;
 }
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
